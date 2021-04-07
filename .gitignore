@@ -55,7 +55,6 @@ Testing
 /*.cmake
 *.stackdump
 *._h
-zconf.h
 zconf.h.cmakein
 zconf.h.included
 zconf-ng.h
